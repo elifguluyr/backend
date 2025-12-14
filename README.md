@@ -14,20 +14,20 @@
 
 **Postman Test Sonucu**
 
-![Ekran görüntüsü 1](tests/Ekran görüntüsü 2025-12-14 174910.png)
+![Ekran görüntüsü 1](tests/ekran1.png)
 
-![Ekran görüntüsü 2](tests/Ekran görüntüsü 2025-12-14 175004.png)
+![Ekran görüntüsü 2](tests/ekran2.png)
 
-![Ekran görüntüsü 3](tests/Ekran görüntüsü 2025-12-14 175358.png)
+![Ekran görüntüsü 3](tests/ekran2.png)
 
-![Ekran görüntüsü 4](tests/Ekran görüntüsü 2025-12-14 175422.png)
+![Ekran görüntüsü 4](tests/ekran3.png)
 
-![Ekran görüntüsü 5](tests/Ekran görüntüsü 2025-12-14 175444.png)
+![Ekran görüntüsü 5](tests/ekran4.png)
 
-![Ekran görüntüsü 6](tests/Ekran görüntüsü 2025-12-14 175516.png)
+![Ekran görüntüsü 6](tests/ekran5.png)
 
-![Ekran görüntüsü 7](tests/Ekran görüntüsü 2025-12-14 175530.png)
+![Ekran görüntüsü 7](tests/ekran6.png)
 
-![Ekran görüntüsü 8](tests/Ekran görüntüsü 2025-12-14 175544.png)
+![Ekran görüntüsü 8](tests/ekran7.png)
 
-![Ekran görüntüsü 9](tests/Ekran görüntüsü 2025-12-14 175557.png)
+![Ekran görüntüsü 9](tests/ekran8.png)
